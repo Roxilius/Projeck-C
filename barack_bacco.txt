@@ -1,0 +1,33 @@
+Barack Apple#17000#15000#0
+Barack Apple Ice#17000#15000#0
+Barack Banana#17000#15000#9
+Barack Banana Ice#17000#15000#0
+Barack Banana Milk#17000#15000#0
+Barack Banana Milk Ice#17000#15000#0
+Barack Black Wine#17000#15000#0
+Barack Black Wine Ice#17000#15000#0
+Barack Blackcurrant#17000#15000#0
+Barack Blackcurrant Ice#17000#15000#0
+Barack Blueberry#17000#15000#0
+Barack Blueberry Ice#17000#15000#0
+Barack Blueberry Milk#17000#15000#0
+Barack Blueberry Milk Ice#17000#15000#0
+Barack Bubble Gum#17000#15000#0
+Barack Bubble Gum Ice#17000#15000#0
+Barack Candy#17000#15000#0
+Barack Candy Ice#17000#15000#0
+Barack Cappucino#17000#15000#0
+Barack Cappucino Ice#17000#15000#0
+Barack Caramel#17000#15000#0
+Barack Lemon Tea#17000#15000#0
+Barack Lemon Tea Ice#17000#15000#0
+Barack Long Island#17000#15000#0
+Barack Manggo#17000#15000#0
+Barack Manggo Ice#17000#15000#0
+Barack Manggo Milk#17000#15000#0
+Barack Mapple#17000#15000#0
+Barack Red Wine#17000#15000#0
+Barack Red Wine Ice#17000#15000#0
+Barack Strawberry#17000#15000#0
+Barack Strawberry Ice#17000#15000#0
+Barack Strawberry Milk#17000#15000#0
